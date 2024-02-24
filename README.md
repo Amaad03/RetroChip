@@ -1,1 +1,1 @@
-To run the emualator, Enter ./main "rom name" into terminal 
+To run the emulator, Enter ./main "rom name" into terminal 
